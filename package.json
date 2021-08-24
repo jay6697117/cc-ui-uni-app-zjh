@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "cc-ui, uni-app组件库, 一切为了简单",
   "main": "index.js",
+  "files": ["components","utils","package.json","README.md"],
   "author": {
     "name": "lp"
   },
