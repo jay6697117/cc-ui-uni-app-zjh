@@ -5,3 +5,5 @@ const toast = (title, duration = 1500) => {
     duration
   })
 }
+
+export default toast

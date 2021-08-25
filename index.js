@@ -1,3 +1,4 @@
+/* 组件库出口 */
 import $cc from './utils/index.js';
 
 uni.$cc = $cc;
